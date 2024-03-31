@@ -1,6 +1,6 @@
-# profile
+# Bioprofile
 
-A new Flutter project.
+coursework on creating a simple profile view
 
 ## Getting Started
 
